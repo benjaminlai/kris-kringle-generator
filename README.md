@@ -32,7 +32,7 @@ Sample ./app/resources/participants.json payload
             }
         ]
     }
-]```
+]
 
 ### Prerequisites
 
