@@ -1,0 +1,26 @@
+[
+    {
+        "name":"Participant1",
+        "phone":"1111111",
+        "blacklist": [
+            {
+                "name": "Receiver1",
+                "phone": "222222"
+            },
+            {
+                "name": "Receiver2",
+                "phone": "2222222"
+            }
+        ]
+    },
+    {
+        "name":"Participant2",
+        "phone":"2222222",
+        "blacklist": [
+            {
+                "name": "Receiver3",
+                "phone": "3333333"
+            }
+        ]
+    }
+]

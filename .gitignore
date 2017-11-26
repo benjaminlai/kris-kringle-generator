@@ -1,0 +1,12 @@
+kris-kringle-generator
+.env
+.DS_Store
+
+# IDE related
+.vscode/
+
+# Debugging
+debug.test
+
+# Resources
+participants*.json
