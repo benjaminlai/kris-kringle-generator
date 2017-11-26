@@ -7,7 +7,7 @@ It will not assign a receiver who is on the blacklist
 
 Rename ./app/resources/sample.json to participants.json
 Sample ./app/resources/participants.json payload
-```json[
+```[
     {
         "name":"Participant1",
         "phone":"1111111",
@@ -33,8 +33,9 @@ Sample ./app/resources/participants.json payload
         ]
     }
 ]
+```
 
-### Prerequisites
+## Prerequisites
 
 Must have: 
 - Go
